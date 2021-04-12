@@ -1,0 +1,8 @@
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\bin\Debug\netstandard2.0\ShopBridge_Data.deps.json
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\bin\Debug\netstandard2.0\ShopBridge_Data.dll
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\bin\Debug\netstandard2.0\ShopBridge_Data.pdb
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\obj\Debug\netstandard2.0\ShopBridge_Data.AssemblyInfoInputs.cache
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\obj\Debug\netstandard2.0\ShopBridge_Data.AssemblyInfo.cs
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\obj\Debug\netstandard2.0\ShopBridge_Data.csproj.CoreCompileInputs.cache
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\obj\Debug\netstandard2.0\ShopBridge_Data.dll
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Data\obj\Debug\netstandard2.0\ShopBridge_Data.pdb

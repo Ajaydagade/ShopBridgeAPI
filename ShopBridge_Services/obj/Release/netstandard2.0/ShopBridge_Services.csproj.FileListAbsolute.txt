@@ -1,0 +1,12 @@
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\bin\Release\netstandard2.0\ShopBridge_Services.deps.json
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\bin\Release\netstandard2.0\ShopBridge_Services.dll
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\bin\Release\netstandard2.0\ShopBridge_Services.pdb
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\bin\Release\netstandard2.0\ShopBridge_Data.dll
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\bin\Release\netstandard2.0\ShopBridge_Data.pdb
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\obj\Release\netstandard2.0\ShopBridge_Services.csprojAssemblyReference.cache
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\obj\Release\netstandard2.0\ShopBridge_Services.AssemblyInfoInputs.cache
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\obj\Release\netstandard2.0\ShopBridge_Services.AssemblyInfo.cs
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\obj\Release\netstandard2.0\ShopBridge_Services.csproj.CoreCompileInputs.cache
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\obj\Release\netstandard2.0\ShopBridge_Services.csproj.CopyComplete
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\obj\Release\netstandard2.0\ShopBridge_Services.dll
+D:\DACPL SVN Projects\ShopBridge\ShopBridge_Services\obj\Release\netstandard2.0\ShopBridge_Services.pdb
